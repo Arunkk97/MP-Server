@@ -1,0 +1,86 @@
+{
+  "videos": [
+    {
+      "id": "8641",
+      "caption": "Arjith Singh",
+      "imageURL": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKlxqrPf3rFUgS6aWmhSAWckWkfIz6Ihz1t8Sc3aDw7AoUbqwW",
+      "youtubeLink": "https://www.youtube.com/embed/Zlqf9cuaOBw"
+    },
+    {
+      "id": "40ff",
+      "caption": "Shreya Ghoshal",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAY8DVhGI4aF3dms-DIrT6TUfI6SdTqr8-rQAHE60HBYhgP-Og1q2DO6phkxX-UkZ2qI&usqp=CAU",
+      "youtubeLink": "https://www.youtube.com/embed/7N74i_rAfFE"
+    },
+    {
+      "id": "1126",
+      "caption": "Sonu Nigam",
+      "imageURL": "https://rukminim2.flixcart.com/image/850/1000/l1whaq80/poster/z/z/0/small-poster-bollywood-singer-sonu-nigam-wall-poster-300gsm-matt-original-imagddykyy3sghuh.jpeg?q=90&crop=false",
+      "youtubeLink": "https://www.youtube.com/embed/0L0QinW_A70"
+    },
+    {
+      "id": "a5c8",
+      "caption": "sushin shyam",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFIFf4xu8haD5SQJ7yv2FpiEy3Xy3apD3X8w&usqp=CAU",
+      "youtubeLink": "https://www.youtube.com/embed/9AizchSQURA"
+    }
+  ],
+  "categories": [
+    {
+      "id": "07b9",
+      "categoryName": "movies",
+      "allVideos": [
+        {
+          "id": "8641",
+          "caption": "Arjith Singh",
+          "imageURL": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKlxqrPf3rFUgS6aWmhSAWckWkfIz6Ihz1t8Sc3aDw7AoUbqwW",
+          "youtubeLink": "https://www.youtube.com/embed/Zlqf9cuaOBw"
+        },
+        {
+          "id": "40ff",
+          "caption": "Shreya Ghoshal",
+          "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAY8DVhGI4aF3dms-DIrT6TUfI6SdTqr8-rQAHE60HBYhgP-Og1q2DO6phkxX-UkZ2qI&usqp=CAU",
+          "youtubeLink": "https://www.youtube.com/embed/7N74i_rAfFE"
+        }
+      ]
+    },
+    {
+      "id": "80d6",
+      "categoryName": "songs",
+      "allVideos": [
+        {
+          "id": "a5c8",
+          "caption": "sushin shyam",
+          "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFIFf4xu8haD5SQJ7yv2FpiEy3Xy3apD3X8w&usqp=CAU",
+          "youtubeLink": "https://www.youtube.com/embed/9AizchSQURA"
+        },
+        {
+          "id": "1126",
+          "caption": "Sonu Nigam",
+          "imageURL": "https://rukminim2.flixcart.com/image/850/1000/l1whaq80/poster/z/z/0/small-poster-bollywood-singer-sonu-nigam-wall-poster-300gsm-matt-original-imagddykyy3sghuh.jpeg?q=90&crop=false",
+          "youtubeLink": "https://www.youtube.com/embed/0L0QinW_A70"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "c96a",
+      "caption": "Shreya Ghoshal",
+      "youtubeLink": "https://www.youtube.com/embed/7N74i_rAfFE",
+      "timeStamp": "02/23/2024, 05:44:38 PM"
+    },
+    {
+      "id": "395c",
+      "caption": "Shreya Ghoshal",
+      "youtubeLink": "https://www.youtube.com/embed/7N74i_rAfFE",
+      "timeStamp": "02/24/2024, 11:17:13 AM"
+    },
+    {
+      "caption": "Shreya Ghoshal",
+      "youtubeLink": "https://www.youtube.com/embed/7N74i_rAfFE",
+      "timeStamp": "02/29/2024, 11:44:30 AM",
+      "id": "0MKmDzq"
+    }
+  ]
+}
